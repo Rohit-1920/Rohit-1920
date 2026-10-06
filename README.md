@@ -26,16 +26,16 @@
 
 <br/>
 
-```yaml
-status:    operational
-location:  Pune, Maharashtra, India
-cloud:     AWS
-compute:   [EKS, Fargate, ECS]
-delivery:  [GitHub Actions, ArgoCD]
-iac:       [Terraform, Ansible]
-observe:   [Prometheus, Grafana, ELK]
-security:  [IAM, OIDC, IRSA]
-```
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-16A34A?style=for-the-badge&labelColor=0B0A24" alt="STATUS: OPERATIONAL"/>
+<img src="https://img.shields.io/badge/LOCATION-Pune%2C_Maharashtra%2C_India-4338CA?style=for-the-badge&labelColor=0B0A24" alt="LOCATION: Pune, Maharashtra, India"/><br/>
+<img src="https://img.shields.io/badge/CLOUD-AWS-4338CA?style=for-the-badge&labelColor=0B0A24" alt="CLOUD: AWS"/>
+<img src="https://img.shields.io/badge/COMPUTE-EKS_%C2%B7_Fargate_%C2%B7_ECS-4338CA?style=for-the-badge&labelColor=0B0A24" alt="COMPUTE: EKS · Fargate · ECS"/>
+<img src="https://img.shields.io/badge/DELIVERY-GitHub_Actions_%C2%B7_ArgoCD-4338CA?style=for-the-badge&labelColor=0B0A24" alt="DELIVERY: GitHub Actions · ArgoCD"/><br/>
+<img src="https://img.shields.io/badge/IaC-Terraform_%C2%B7_Ansible-4338CA?style=for-the-badge&labelColor=0B0A24" alt="IaC: Terraform · Ansible"/>
+<img src="https://img.shields.io/badge/OBSERVE-Prometheus_%C2%B7_Grafana_%C2%B7_ELK-4338CA?style=for-the-badge&labelColor=0B0A24" alt="OBSERVE: Prometheus · Grafana · ELK"/>
+<img src="https://img.shields.io/badge/SECURITY-IAM_%C2%B7_OIDC_%C2%B7_IRSA-4338CA?style=for-the-badge&labelColor=0B0A24" alt="SECURITY: IAM · OIDC · IRSA"/>
+</p>
 
 <br/>
 
@@ -63,25 +63,25 @@ and scale is designed, not hoped for.
 <br/>
 
 <p align="center"><b><code>CLOUD · AWS</code></b><br/>
-<img src="https://img.shields.io/badge/EC2-3730A3?style=flat-square" alt="EC2"/> <img src="https://img.shields.io/badge/VPC-3730A3?style=flat-square" alt="VPC"/> <img src="https://img.shields.io/badge/S3-3730A3?style=flat-square" alt="S3"/> <img src="https://img.shields.io/badge/RDS-3730A3?style=flat-square" alt="RDS"/> <img src="https://img.shields.io/badge/EFS-3730A3?style=flat-square" alt="EFS"/> <img src="https://img.shields.io/badge/Route_53-3730A3?style=flat-square" alt="Route 53"/> <img src="https://img.shields.io/badge/CloudFront-3730A3?style=flat-square" alt="CloudFront"/> <img src="https://img.shields.io/badge/Lambda-3730A3?style=flat-square" alt="Lambda"/> <img src="https://img.shields.io/badge/API_Gateway-3730A3?style=flat-square" alt="API Gateway"/> <img src="https://img.shields.io/badge/ECS-3730A3?style=flat-square" alt="ECS"/> <img src="https://img.shields.io/badge/Fargate-3730A3?style=flat-square" alt="Fargate"/> <img src="https://img.shields.io/badge/EKS-3730A3?style=flat-square" alt="EKS"/> <img src="https://img.shields.io/badge/ECR-3730A3?style=flat-square" alt="ECR"/> <img src="https://img.shields.io/badge/ALB-3730A3?style=flat-square" alt="ALB"/> <img src="https://img.shields.io/badge/Auto_Scaling-3730A3?style=flat-square" alt="Auto Scaling"/> <img src="https://img.shields.io/badge/Service_Quotas-3730A3?style=flat-square" alt="Service Quotas"/> <img src="https://img.shields.io/badge/Bedrock-3730A3?style=flat-square" alt="Bedrock"/></p>
+<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square" alt="EC2"/> <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square" alt="VPC"/> <img src="https://img.shields.io/badge/S3-FF9900?style=flat-square" alt="S3"/> <img src="https://img.shields.io/badge/RDS-FF9900?style=flat-square" alt="RDS"/> <img src="https://img.shields.io/badge/EFS-FF9900?style=flat-square" alt="EFS"/> <img src="https://img.shields.io/badge/Route_53-FF9900?style=flat-square" alt="Route 53"/> <img src="https://img.shields.io/badge/CloudFront-FF9900?style=flat-square" alt="CloudFront"/> <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square" alt="Lambda"/> <img src="https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square" alt="API Gateway"/> <img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square" alt="ECS"/> <img src="https://img.shields.io/badge/Fargate-FF9900?style=flat-square" alt="Fargate"/> <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square" alt="EKS"/> <img src="https://img.shields.io/badge/ECR-FF9900?style=flat-square" alt="ECR"/> <img src="https://img.shields.io/badge/ALB-FF9900?style=flat-square" alt="ALB"/> <img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=flat-square" alt="Auto Scaling"/> <img src="https://img.shields.io/badge/Service_Quotas-FF9900?style=flat-square" alt="Service Quotas"/> <img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat-square" alt="Bedrock"/></p>
 
 <p align="center"><b><code>CONTAINERS</code></b><br/>
-<img src="https://img.shields.io/badge/Docker-3730A3?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Kubernetes-3730A3?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Helm-3730A3?style=flat-square&logo=helm&logoColor=white" alt="Helm"/> <img src="https://img.shields.io/badge/Ingress-3730A3?style=flat-square" alt="Ingress"/> <img src="https://img.shields.io/badge/HPA-3730A3?style=flat-square" alt="HPA"/></p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/> <img src="https://img.shields.io/badge/Ingress-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Ingress"/> <img src="https://img.shields.io/badge/HPA-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="HPA"/></p>
 
 <p align="center"><b><code>DELIVERY</code></b><br/>
-<img src="https://img.shields.io/badge/GitHub_Actions-3730A3?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Jenkins-3730A3?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/> <img src="https://img.shields.io/badge/CircleCI-3730A3?style=flat-square&logo=circleci&logoColor=white" alt="CircleCI"/> <img src="https://img.shields.io/badge/ArgoCD-3730A3?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD"/></p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/> <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" alt="CircleCI"/> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD"/></p>
 
 <p align="center"><b><code>INFRASTRUCTURE</code></b><br/>
-<img src="https://img.shields.io/badge/Terraform-3730A3?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/> <img src="https://img.shields.io/badge/Ansible-3730A3?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/> <img src="https://img.shields.io/badge/AWS_CLI-3730A3?style=flat-square" alt="AWS CLI"/> <img src="https://img.shields.io/badge/boto3-3730A3?style=flat-square" alt="boto3"/> <img src="https://img.shields.io/badge/Python-3730A3?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Bash-3730A3?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/></p>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/> <img src="https://img.shields.io/badge/AWS_CLI-FF9900?style=flat-square" alt="AWS CLI"/> <img src="https://img.shields.io/badge/boto3-FF9900?style=flat-square" alt="boto3"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/></p>
 
 <p align="center"><b><code>OBSERVABILITY</code></b><br/>
-<img src="https://img.shields.io/badge/Prometheus-3730A3?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/> <img src="https://img.shields.io/badge/Grafana-3730A3?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/> <img src="https://img.shields.io/badge/ELK-3730A3?style=flat-square&logo=elasticsearch&logoColor=white" alt="ELK"/> <img src="https://img.shields.io/badge/CloudWatch-3730A3?style=flat-square" alt="CloudWatch"/> <img src="https://img.shields.io/badge/CloudTrail-3730A3?style=flat-square" alt="CloudTrail"/></p>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/> <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="ELK"/> <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square" alt="CloudWatch"/> <img src="https://img.shields.io/badge/CloudTrail-FF4F8B?style=flat-square" alt="CloudTrail"/></p>
 
 <p align="center"><b><code>SECURITY · NETWORKING</code></b><br/>
-<img src="https://img.shields.io/badge/IAM-3730A3?style=flat-square" alt="IAM"/> <img src="https://img.shields.io/badge/OIDC-3730A3?style=flat-square" alt="OIDC"/> <img src="https://img.shields.io/badge/IRSA-3730A3?style=flat-square" alt="IRSA"/> <img src="https://img.shields.io/badge/AWS_WAF-3730A3?style=flat-square" alt="AWS WAF"/> <img src="https://img.shields.io/badge/Cloudflare-3730A3?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/> <img src="https://img.shields.io/badge/SSL%2FTLS-3730A3?style=flat-square" alt="SSL/TLS"/> <img src="https://img.shields.io/badge/Security_Groups-3730A3?style=flat-square" alt="Security Groups"/> <img src="https://img.shields.io/badge/Subnets-3730A3?style=flat-square" alt="Subnets"/> <img src="https://img.shields.io/badge/NAT_Gateway-3730A3?style=flat-square" alt="NAT Gateway"/> <img src="https://img.shields.io/badge/DNS-3730A3?style=flat-square" alt="DNS"/></p>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square" alt="IAM"/> <img src="https://img.shields.io/badge/OIDC-F78C40?style=flat-square&logo=openid&logoColor=white" alt="OIDC"/> <img src="https://img.shields.io/badge/IRSA-DD344C?style=flat-square" alt="IRSA"/> <img src="https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square" alt="AWS WAF"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/> <img src="https://img.shields.io/badge/SSL%2FTLS-2E7D32?style=flat-square&logo=letsencrypt&logoColor=white" alt="SSL/TLS"/> <img src="https://img.shields.io/badge/Security_Groups-DD344C?style=flat-square" alt="Security Groups"/> <img src="https://img.shields.io/badge/Subnets-8C4FFF?style=flat-square" alt="Subnets"/> <img src="https://img.shields.io/badge/NAT_Gateway-8C4FFF?style=flat-square" alt="NAT Gateway"/> <img src="https://img.shields.io/badge/DNS-8C4FFF?style=flat-square" alt="DNS"/></p>
 
 <p align="center"><b><code>TOOLS</code></b><br/>
-<img src="https://img.shields.io/badge/Linux-3730A3?style=flat-square&logo=linux&logoColor=white" alt="Linux"/> <img src="https://img.shields.io/badge/Nginx-3730A3?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/> <img src="https://img.shields.io/badge/Git-3730A3?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-3730A3?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Vercel-3730A3?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/Certbot-3730A3?style=flat-square" alt="Certbot"/></p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/Certbot-003A70?style=flat-square&logo=letsencrypt&logoColor=white" alt="Certbot"/></p>
 
 <br/>
 
@@ -254,25 +254,32 @@ class PROD iac
 
 <br/>
 
-```text
-CASE 01 · EKS FARGATE + GITHUB ACTIONS
-  PODS STUCK IN PENDING          → Fargate scheduling configuration
-  COREDNS FAILURES               → cluster DNS on Fargate
-  IMAGEPULLBACKOFF               → missing NAT route from the private subnet
-  CRASHLOOPBACKOFF               → RDS security-group rules
-  ALB 502                        → traced through target health and logs
+<p><img src="https://img.shields.io/badge/CASE_01-EKS_FARGATE_%2B_GITHUB_ACTIONS-0B0A24?style=for-the-badge&labelColor=4338CA" alt="CASE 01: EKS FARGATE + GITHUB ACTIONS"/></p>
 
-CASE 02 · KEYLESS GITOPS ON EKS FARGATE
-  OIDC ACCESSDENIED              → IAM trust relationship, found in CloudTrail
-  ARGOCD CRD SIZE LIMIT          → solved with server-side apply
-  ADMISSION WEBHOOK FAILURE      → failing webhook blocking deployments
-  EKS ACCESS POLICY ERRORS       → cluster access granted explicitly
-  FARGATE PROFILE IMMUTABILITY   → profiles cannot be edited in place
-  RUNASNONROOT UID ERRORS        → container user IDs vs. the security policy
+<p>
+<kbd>PODS STUCK IN PENDING</kbd> &nbsp;→&nbsp; Fargate scheduling configuration<br/>
+<kbd>COREDNS FAILURES</kbd> &nbsp;→&nbsp; cluster DNS on Fargate<br/>
+<kbd>IMAGEPULLBACKOFF</kbd> &nbsp;→&nbsp; missing NAT route from the private subnet<br/>
+<kbd>CRASHLOOPBACKOFF</kbd> &nbsp;→&nbsp; RDS security-group rules<br/>
+<kbd>ALB 502</kbd> &nbsp;→&nbsp; traced through target health and logs
+</p>
 
-CASE 03 · DOCKER COMPOSE TO EKS
-  HOSTNAME MISMATCHES            → configuration defects found during cutover
-```
+<p><img src="https://img.shields.io/badge/CASE_02-KEYLESS_GITOPS_ON_EKS_FARGATE-0B0A24?style=for-the-badge&labelColor=4338CA" alt="CASE 02: KEYLESS GITOPS ON EKS FARGATE"/></p>
+
+<p>
+<kbd>OIDC ACCESSDENIED</kbd> &nbsp;→&nbsp; IAM trust relationship, found in CloudTrail<br/>
+<kbd>ARGOCD CRD SIZE LIMIT</kbd> &nbsp;→&nbsp; solved with server-side apply<br/>
+<kbd>ADMISSION WEBHOOK FAILURE</kbd> &nbsp;→&nbsp; failing webhook blocking deployments<br/>
+<kbd>EKS ACCESS POLICY ERRORS</kbd> &nbsp;→&nbsp; cluster access granted explicitly<br/>
+<kbd>FARGATE PROFILE IMMUTABILITY</kbd> &nbsp;→&nbsp; profiles cannot be edited in place<br/>
+<kbd>RUNASNONROOT UID ERRORS</kbd> &nbsp;→&nbsp; container user IDs vs. the security policy
+</p>
+
+<p><img src="https://img.shields.io/badge/CASE_03-DOCKER_COMPOSE_TO_EKS-0B0A24?style=for-the-badge&labelColor=4338CA" alt="CASE 03: DOCKER COMPOSE TO EKS"/></p>
+
+<p>
+<kbd>HOSTNAME MISMATCHES</kbd> &nbsp;→&nbsp; configuration defects found during cutover
+</p>
 
 <br/>
 
