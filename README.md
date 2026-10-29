@@ -1,377 +1,340 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0D2E,45:312E81,100:4F46E5&height=240&section=header&text=ROHIT%20MAHAJAN&fontSize=76&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn" alt="Rohit Mahajan" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,60:0F4C5C,100:14B8A6&height=230&section=header&text=Rohit%20Mahajan&fontSize=64&fontColor=F8FAFC&fontAlignY=40&desc=DevOps%20%26%20Cloud%20Engineer&descSize=22&descColor=99F6E4&descAlignY=62" alt="Rohit Mahajan, DevOps and Cloud Engineer" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=30&duration=3000&pause=1400&color=C7D2FE&center=true&vCenter=true&width=760&height=46&repeat=false&lines=%E2%80%9CDo+you+understand+the+violence+it+took" alt="“Do you understand the violence it took"/>
-<br/>
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=30&duration=3000&pause=1400&color=C7D2FE&center=true&vCenter=true&width=760&height=46&repeat=false&lines=to+become+this+gentle%3F%E2%80%9D" alt="to become this gentle?”"/>
-
-<sub><i>— Nitya Prakash</i></sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1200&color=14B8A6&center=true&vCenter=true&width=560&height=30&lines=AWS+Cloud+Infrastructure;Kubernetes+on+EKS;CI%2FCD+and+GitOps;Infrastructure+Automation;Generative+AI+and+Agents" alt="AWS Cloud Infrastructure, Kubernetes on EKS, CI/CD and GitOps, Infrastructure Automation, Generative AI and Agents"/>
 
 <br/>
 
-### DEVOPS ENGINEER
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1400&color=A5B4FC&center=true&vCenter=true&width=520&height=32&repeat=true&lines=AWS+Cloud;Kubernetes+%28EKS%29;CI%2FCD+and+GitOps;Infrastructure+Automation" alt="AWS Cloud, Kubernetes (EKS), CI/CD and GitOps, Infrastructure Automation"/>
-
-<br/>
-
-<a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-3730A3?style=for-the-badge" alt="Projects"/></a>
-<a href="#stack"><img src="https://img.shields.io/badge/STACK-3730A3?style=for-the-badge" alt="Stack"/></a>
-<a href="#architecture"><img src="https://img.shields.io/badge/ARCHITECTURE-3730A3?style=for-the-badge" alt="Architecture"/></a>
-<a href="#github"><img src="https://img.shields.io/badge/GITHUB-3730A3?style=for-the-badge" alt="GitHub"/></a>
-<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-3730A3?style=for-the-badge" alt="Contact"/></a>
+<a href="#about"><img src="https://img.shields.io/badge/About-0F766E?style=flat-square" alt="About"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-0F766E?style=flat-square" alt="Tech Stack"/></a>
+<a href="#architecture"><img src="https://img.shields.io/badge/Architecture-0F766E?style=flat-square" alt="Architecture"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/Projects-0F766E?style=flat-square" alt="Projects"/></a>
+<a href="#problems-solved"><img src="https://img.shields.io/badge/Problems_Solved-0F766E?style=flat-square" alt="Problems Solved"/></a>
+<a href="#currently-learning"><img src="https://img.shields.io/badge/Learning-0F766E?style=flat-square" alt="Currently Learning"/></a>
+<a href="#github-activity"><img src="https://img.shields.io/badge/GitHub-0F766E?style=flat-square" alt="GitHub Activity"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/Contact-0F766E?style=flat-square" alt="Contact"/></a>
 
 </div>
 
 <br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-16A34A?style=for-the-badge&labelColor=0B0A24" alt="STATUS: OPERATIONAL"/>
-<img src="https://img.shields.io/badge/LOCATION-Pune%2C_Maharashtra%2C_India-4338CA?style=for-the-badge&labelColor=0B0A24" alt="LOCATION: Pune, Maharashtra, India"/><br/>
-<img src="https://img.shields.io/badge/CLOUD-AWS-4338CA?style=for-the-badge&labelColor=0B0A24" alt="CLOUD: AWS"/>
-<img src="https://img.shields.io/badge/COMPUTE-EKS_%C2%B7_Fargate_%C2%B7_ECS-4338CA?style=for-the-badge&labelColor=0B0A24" alt="COMPUTE: EKS · Fargate · ECS"/>
-<img src="https://img.shields.io/badge/DELIVERY-GitHub_Actions_%C2%B7_ArgoCD-4338CA?style=for-the-badge&labelColor=0B0A24" alt="DELIVERY: GitHub Actions · ArgoCD"/><br/>
-<img src="https://img.shields.io/badge/IaC-Terraform_%C2%B7_Ansible-4338CA?style=for-the-badge&labelColor=0B0A24" alt="IaC: Terraform · Ansible"/>
-<img src="https://img.shields.io/badge/OBSERVE-Prometheus_%C2%B7_Grafana_%C2%B7_ELK-4338CA?style=for-the-badge&labelColor=0B0A24" alt="OBSERVE: Prometheus · Grafana · ELK"/>
-<img src="https://img.shields.io/badge/SECURITY-IAM_%C2%B7_OIDC_%C2%B7_IRSA-4338CA?style=for-the-badge&labelColor=0B0A24" alt="SECURITY: IAM · OIDC · IRSA"/>
-</p>
+<a name="about"></a>
+## About
+
+DevOps engineer based in **Pune, Maharashtra, India**, focused on AWS, Kubernetes and automated delivery. I design cloud platforms with repeatable deployments, keyless CI/CD, least-privilege access and built-in observability.
+
+| | |
+|:--|:--|
+| **Focus** | AWS infrastructure, EKS / Fargate, CI/CD, GitOps |
+| **Security approach** | OIDC, temporary credentials, IRSA, least-privilege IAM |
+| **Observability** | Prometheus, Grafana, ELK, CloudWatch, CloudTrail |
+| **Exploring next** | Platform engineering, GenAI and AI agents |
 
 <br/>
 
-<h3 align="center">
-I build cloud platforms where<br/>
-deployments are repeatable,<br/>
-credentials are temporary,<br/>
-failures are observable,<br/>
-and scale is designed, not hoped for.
-</h3>
+<a name="tech-stack"></a>
+## Tech Stack
 
-<p align="center">
-<img src="https://img.shields.io/badge/01-ARCHITECT-0B1020?style=for-the-badge&labelColor=4F46E5" alt="Architect"/>
-<img src="https://img.shields.io/badge/02-AUTOMATE-0B1020?style=for-the-badge&labelColor=4F46E5" alt="Automate"/>
-<img src="https://img.shields.io/badge/03-SECURE-0B1020?style=for-the-badge&labelColor=4F46E5" alt="Secure"/>
-<img src="https://img.shields.io/badge/04-OBSERVE-0B1020?style=for-the-badge&labelColor=4F46E5" alt="Observe"/>
-<img src="https://img.shields.io/badge/05-SCALE-0B1020?style=for-the-badge&labelColor=4F46E5" alt="Scale"/>
-</p>
+| Area | Tools |
+|:--|:--|
+| **Compute** | ![EC2](https://img.shields.io/badge/EC2-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![Lambda](https://img.shields.io/badge/Lambda-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![ECS](https://img.shields.io/badge/ECS-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![Fargate](https://img.shields.io/badge/Fargate-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![EKS](https://img.shields.io/badge/EKS-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![ECR](https://img.shields.io/badge/ECR-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![Amplify](https://img.shields.io/badge/Amplify-ED7100?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Storage and Databases** | ![S3](https://img.shields.io/badge/S3-7AA116?style=flat-square&logo=amazonaws&logoColor=white) ![EBS](https://img.shields.io/badge/EBS-7AA116?style=flat-square&logo=amazonaws&logoColor=white) ![EFS](https://img.shields.io/badge/EFS-7AA116?style=flat-square&logo=amazonaws&logoColor=white) ![RDS](https://img.shields.io/badge/RDS-C925D1?style=flat-square&logo=amazonaws&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-C925D1?style=flat-square&logo=amazonaws&logoColor=white) ![Athena](https://img.shields.io/badge/Athena-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Networking** | ![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![ALB](https://img.shields.io/badge/ALB-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![API Gateway](https://img.shields.io/badge/API_Gateway-E7157B?style=flat-square&logo=amazonaws&logoColor=white) ![SNS](https://img.shields.io/badge/SNS-E7157B?style=flat-square&logo=amazonaws&logoColor=white) ![SQS](https://img.shields.io/badge/SQS-E7157B?style=flat-square&logo=amazonaws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+| **Containers** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) |
+| **CI/CD and GitOps** | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white) ![CodeBuild](https://img.shields.io/badge/CodeBuild-3B48CC?style=flat-square&logo=amazonaws&logoColor=white) ![CodeDeploy](https://img.shields.io/badge/CodeDeploy-3B48CC?style=flat-square&logo=amazonaws&logoColor=white) ![CodeCommit](https://img.shields.io/badge/CodeCommit-3B48CC?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-E7157B?style=flat-square&logo=amazonaws&logoColor=white) ![boto3](https://img.shields.io/badge/boto3-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![AWS CLI](https://img.shields.io/badge/AWS_CLI-ED7100?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![ELK](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-E7157B?style=flat-square&logo=amazonaws&logoColor=white) ![CloudTrail](https://img.shields.io/badge/CloudTrail-E7157B?style=flat-square&logo=amazonaws&logoColor=white) ![AWS Config](https://img.shields.io/badge/AWS_Config-E7157B?style=flat-square&logo=amazonaws&logoColor=white) |
+| **Security** | ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white) ![Secrets Manager](https://img.shields.io/badge/Secrets_Manager-DD344C?style=flat-square&logo=amazonaws&logoColor=white) ![ACM](https://img.shields.io/badge/ACM-DD344C?style=flat-square&logo=amazonaws&logoColor=white) ![AWS WAF](https://img.shields.io/badge/WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white) ![OIDC](https://img.shields.io/badge/OIDC-F78C40?style=flat-square&logo=openid&logoColor=white) ![Certbot](https://img.shields.io/badge/Certbot-003A70?style=flat-square&logo=letsencrypt&logoColor=white) |
+| **Languages and OS** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **Version Control and Hosting** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white) |
+| **AI Services** | ![Bedrock](https://img.shields.io/badge/Bedrock-01A88D?style=flat-square&logo=amazonaws&logoColor=white) |
 
-<br/>
-
-<a name="stack"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:4F46E5&height=64&section=header&text=STACK&fontSize=26&fontColor=FFFFFF&fontAlignY=52" alt="STACK" width="100%"/>
-
-<br/>
-
-<p align="center"><b><code>CLOUD · AWS</code></b><br/>
-<img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square" alt="EC2"/> <img src="https://img.shields.io/badge/EBS-FF9900?style=flat-square" alt="EBS"/> <img src="https://img.shields.io/badge/S3-FF9900?style=flat-square" alt="S3"/> <img src="https://img.shields.io/badge/EFS-FF9900?style=flat-square" alt="EFS"/> <img src="https://img.shields.io/badge/RDS-FF9900?style=flat-square" alt="RDS"/> <img src="https://img.shields.io/badge/DynamoDB-FF9900?style=flat-square" alt="DynamoDB"/> <img src="https://img.shields.io/badge/Athena-FF9900?style=flat-square" alt="Athena"/> <img src="https://img.shields.io/badge/VPC-FF9900?style=flat-square" alt="VPC"/> <img src="https://img.shields.io/badge/Route_53-FF9900?style=flat-square" alt="Route 53"/> <img src="https://img.shields.io/badge/CloudFront-FF9900?style=flat-square" alt="CloudFront"/> <img src="https://img.shields.io/badge/ALB-FF9900?style=flat-square" alt="ALB"/> <img src="https://img.shields.io/badge/API_Gateway-FF9900?style=flat-square" alt="API Gateway"/> <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square" alt="Lambda"/> <img src="https://img.shields.io/badge/SNS-FF9900?style=flat-square" alt="SNS"/> <img src="https://img.shields.io/badge/SQS-FF9900?style=flat-square" alt="SQS"/> <img src="https://img.shields.io/badge/ECS-FF9900?style=flat-square" alt="ECS"/> <img src="https://img.shields.io/badge/Fargate-FF9900?style=flat-square" alt="Fargate"/> <img src="https://img.shields.io/badge/EKS-FF9900?style=flat-square" alt="EKS"/> <img src="https://img.shields.io/badge/ECR-FF9900?style=flat-square" alt="ECR"/> <img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=flat-square" alt="Auto Scaling"/> <img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square" alt="CloudFormation"/> <img src="https://img.shields.io/badge/CodeCommit-FF9900?style=flat-square" alt="CodeCommit"/> <img src="https://img.shields.io/badge/CodeBuild-FF9900?style=flat-square" alt="CodeBuild"/> <img src="https://img.shields.io/badge/CodeDeploy-FF9900?style=flat-square" alt="CodeDeploy"/> <img src="https://img.shields.io/badge/Amplify-FF9900?style=flat-square" alt="Amplify"/> <img src="https://img.shields.io/badge/ACM-FF9900?style=flat-square" alt="ACM"/> <img src="https://img.shields.io/badge/Secrets_Manager-FF9900?style=flat-square" alt="Secrets Manager"/> <img src="https://img.shields.io/badge/AWS_Config-FF9900?style=flat-square" alt="AWS Config"/> <img src="https://img.shields.io/badge/Service_Quotas-FF9900?style=flat-square" alt="Service Quotas"/> <img src="https://img.shields.io/badge/Bedrock-FF9900?style=flat-square" alt="Bedrock"/></p>
-
-<p align="center"><b><code>CONTAINERS</code></b><br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" alt="Helm"/> <img src="https://img.shields.io/badge/Ingress-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Ingress"/> <img src="https://img.shields.io/badge/HPA-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="HPA"/></p>
-
-<p align="center"><b><code>DELIVERY</code></b><br/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins"/> <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" alt="CircleCI"/> <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD"/></p>
-
-<p align="center"><b><code>INFRASTRUCTURE</code></b><br/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/> <img src="https://img.shields.io/badge/AWS_CLI-FF9900?style=flat-square" alt="AWS CLI"/> <img src="https://img.shields.io/badge/boto3-FF9900?style=flat-square" alt="boto3"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/></p>
-
-<p align="center"><b><code>OBSERVABILITY</code></b><br/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/> <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="ELK"/> <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square" alt="CloudWatch"/> <img src="https://img.shields.io/badge/CloudTrail-FF4F8B?style=flat-square" alt="CloudTrail"/></p>
-
-<p align="center"><b><code>SECURITY · NETWORKING</code></b><br/>
-<img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square" alt="IAM"/> <img src="https://img.shields.io/badge/OIDC-F78C40?style=flat-square&logo=openid&logoColor=white" alt="OIDC"/> <img src="https://img.shields.io/badge/IRSA-DD344C?style=flat-square" alt="IRSA"/> <img src="https://img.shields.io/badge/AWS_WAF-DD344C?style=flat-square" alt="AWS WAF"/> <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare"/> <img src="https://img.shields.io/badge/SSL%2FTLS-2E7D32?style=flat-square&logo=letsencrypt&logoColor=white" alt="SSL/TLS"/> <img src="https://img.shields.io/badge/Security_Groups-DD344C?style=flat-square" alt="Security Groups"/> <img src="https://img.shields.io/badge/Subnets-8C4FFF?style=flat-square" alt="Subnets"/> <img src="https://img.shields.io/badge/NAT_Gateway-8C4FFF?style=flat-square" alt="NAT Gateway"/> <img src="https://img.shields.io/badge/DNS-8C4FFF?style=flat-square" alt="DNS"/></p>
-
-<p align="center"><b><code>TOOLS</code></b><br/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/> <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" alt="Hostinger"/> <img src="https://img.shields.io/badge/Certbot-003A70?style=flat-square&logo=letsencrypt&logoColor=white" alt="Certbot"/></p>
+<sub>AWS badges use the official AWS service-category colours.</sub>
 
 <br/>
 
 <a name="architecture"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:4F46E5&height=64&section=header&text=ARCHITECTURE&fontSize=26&fontColor=FFFFFF&fontAlignY=52" alt="ARCHITECTURE" width="100%"/>
+## Architecture
 
-<br/>
+How code moves from a commit to a running, observable application:
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#818CF8','textColor':'#E2E8F0','edgeLabelBackground':'#1E1B4B','primaryTextColor':'#FFFFFF'}}}%%
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#64748B','primaryTextColor':'#0F172A','clusterBkg':'#F8FAFC','clusterBorder':'#CBD5E1'}}}%%
 flowchart LR
-  subgraph SRC["SOURCE"]
+  subgraph SRC["Source"]
     DEV(["Developer"]) --> GH["GitHub"]
   end
-  subgraph PIPE["PIPELINE"]
-    GA["GitHub Actions<br/>OIDC, keyless"] --> BLD["Docker build"]
+  subgraph PIPE["Pipeline"]
+    GA["GitHub Actions<br/>OIDC, keyless"] --> BLD["Docker Build"]
   end
   subgraph AWS["AWS"]
-    ECR[("ECR")] --> EKS["EKS Fargate<br/>ArgoCD, self-heal"]
+    ECR[("Amazon ECR")] --> EKS["EKS on Fargate<br/>Argo CD self-heal"]
     EKS --> EDGE["ALB / CloudFront"]
   end
   GH --> GA
   BLD --> ECR
   EDGE --> APP(["Application"])
-  EKS --> OBS["Prometheus<br/>Grafana, CloudWatch"]
+  EKS --> OBS["Prometheus, Grafana<br/>CloudWatch"]
   TF["Terraform"] -.-> ECR
-  style SRC fill:#0B0A24,stroke:#4F46E5,color:#C7D2FE
-  style PIPE fill:#0B0A24,stroke:#4F46E5,color:#C7D2FE
-  style AWS fill:#0B0A24,stroke:#4F46E5,color:#C7D2FE
-classDef aws fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef k8s fill:#4338CA,stroke:#C7D2FE,color:#FFF,stroke-width:1.5px
-classDef ci fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef iac fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef obs fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef sec fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef neu fill:#0F0D2E,stroke:#4F46E5,color:#FFF,stroke-width:1.5px
-class DEV,GH,APP neu
-class GA,BLD ci
-class ECR,EDGE aws
-class EKS k8s
-class OBS obs
-class TF iac
-```
 
+  classDef git fill:#181717,stroke:#181717,color:#FFFFFF
+  classDef ci fill:#2088FF,stroke:#1B6FD1,color:#FFFFFF
+  classDef docker fill:#2496ED,stroke:#1D7BC4,color:#FFFFFF
+  classDef aws fill:#ED7100,stroke:#C25C00,color:#FFFFFF
+  classDef k8s fill:#326CE5,stroke:#2653B3,color:#FFFFFF
+  classDef obs fill:#E6522C,stroke:#B8411F,color:#FFFFFF
+  classDef iac fill:#844FBA,stroke:#6A3F96,color:#FFFFFF
+  classDef neutral fill:#E2E8F0,stroke:#94A3B8,color:#0F172A
+  class DEV,APP neutral
+  class GH git
+  class GA ci
+  class BLD docker
+  class ECR,EDGE aws
+  class EKS k8s
+  class OBS obs
+  class TF iac
+```
 
 <br/>
 
 <a name="projects"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:4F46E5&height=64&section=header&text=PROJECTS&fontSize=26&fontColor=FFFFFF&fontAlignY=52" alt="PROJECTS" width="100%"/>
+## Projects
 
-<br/>
+### 1. Containerized Web App on Amazon EKS Fargate with GitHub Actions CI/CD
 
-### 01 · Containerized Web Application Deployment on Amazon EKS Fargate with GitHub Actions CI/CD
-
-> Push-to-deploy pipeline: parallel image builds, ECR push, manifest apply and rollout verification on EKS Fargate.
-
+Push-to-deploy pipeline with parallel image builds, ECR push, manifest apply and rollout verification on EKS Fargate.
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#818CF8','textColor':'#E2E8F0','edgeLabelBackground':'#1E1B4B','primaryTextColor':'#FFFFFF'}}}%%
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#64748B','primaryTextColor':'#0F172A'}}}%%
 flowchart LR
-  GA["GitHub Actions<br/>parallel builds"] --> ECR[("ECR")] --> EKS["EKS Fargate<br/>multiple replicas"] --> ALB["Multi-AZ ALB<br/>path-based routing"]
+  GA["GitHub Actions<br/>parallel builds"] --> ECR[("Amazon ECR")] --> EKS["EKS on Fargate<br/>multiple replicas"] --> ALB["Multi-AZ ALB<br/>path-based routing"]
   EKS --> RDS[("Private RDS<br/>MariaDB")]
   EKS --> NAT["Shared<br/>NAT Gateway"]
-classDef aws fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef k8s fill:#4338CA,stroke:#C7D2FE,color:#FFF,stroke-width:1.5px
-classDef ci fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef iac fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef obs fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef sec fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef neu fill:#0F0D2E,stroke:#4F46E5,color:#FFF,stroke-width:1.5px
-class GA ci
-class ECR,ALB,RDS,NAT aws
-class EKS k8s
+
+  classDef ci fill:#2088FF,stroke:#1B6FD1,color:#FFFFFF
+  classDef aws fill:#ED7100,stroke:#C25C00,color:#FFFFFF
+  classDef net fill:#8C4FFF,stroke:#6F3FCC,color:#FFFFFF
+  classDef db fill:#C925D1,stroke:#9E1DA5,color:#FFFFFF
+  classDef k8s fill:#326CE5,stroke:#2653B3,color:#FFFFFF
+  class GA ci
+  class ECR aws
+  class ALB,NAT net
+  class RDS db
+  class EKS k8s
 ```
 
+| ~80% | ~50% |
+|:--:|:--:|
+| less manual deployment effort | lower networking cost on selected non-prod traffic |
 
-<p align="center"><img src="https://img.shields.io/badge/~80%25-MANUAL_DEPLOYMENT_EFFORT_REDUCED-0B1020?style=for-the-badge&labelColor=4F46E5" alt="~80% MANUAL DEPLOYMENT EFFORT REDUCED"/><br/><img src="https://img.shields.io/badge/~50%25-NETWORKING_COST_REDUCED%2C_SELECTED_NON--PROD_TRAFFIC-0B1020?style=for-the-badge&labelColor=4F46E5" alt="~50% NETWORKING COST REDUCED, SELECTED NON-PROD TRAFFIC"/></p>
+- VPC prepared for Fargate, with a NAT Gateway and a private pod subnet
+- Private RDS MariaDB with a security group scoped to the VPC CIDR
+- AWS Load Balancer Controller using an IRSA role limited to one service account
+- Frontend and API served behind one ALB with path-based routing
 
-
-- VPC prepared for Fargate: NAT Gateway and a private pod subnet
-- Private RDS MariaDB, security group scoped to the VPC CIDR
-- AWS Load Balancer Controller via an IRSA role limited to one service account
-- Frontend and API behind one ALB with path-based routing
-
-
-<p align="center"><img src="https://img.shields.io/badge/Amazon_EKS-3730A3?style=flat-square" alt="Amazon EKS"/> <img src="https://img.shields.io/badge/Fargate-3730A3?style=flat-square" alt="Fargate"/> <img src="https://img.shields.io/badge/ECR-3730A3?style=flat-square" alt="ECR"/> <img src="https://img.shields.io/badge/ALB_Ingress-3730A3?style=flat-square" alt="ALB Ingress"/> <img src="https://img.shields.io/badge/RDS_MariaDB-3730A3?style=flat-square" alt="RDS MariaDB"/> <img src="https://img.shields.io/badge/VPC-3730A3?style=flat-square" alt="VPC"/> <img src="https://img.shields.io/badge/NAT_Gateway-3730A3?style=flat-square" alt="NAT Gateway"/> <img src="https://img.shields.io/badge/IRSA-3730A3?style=flat-square" alt="IRSA"/> <img src="https://img.shields.io/badge/Docker-3730A3?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-3730A3?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Helm-3730A3?style=flat-square&logo=helm&logoColor=white" alt="Helm"/></p>
+![EKS](https://img.shields.io/badge/EKS-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![Fargate](https://img.shields.io/badge/Fargate-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![ECR](https://img.shields.io/badge/ECR-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![ALB](https://img.shields.io/badge/ALB-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![RDS](https://img.shields.io/badge/RDS_MariaDB-C925D1?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
 <br/>
 
+### 2. Production GitOps on EKS Fargate with CloudFront and Keyless CI/CD
 
-### 02 · Production GitOps Delivery on Amazon EKS Fargate with CloudFront and Keyless CI/CD
-
-> Production delivery with no long-lived AWS credentials, and a cluster that corrects its own configuration drift.
-
+Production delivery with no long-lived AWS credentials, and a cluster that corrects its own configuration drift.
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#818CF8','textColor':'#E2E8F0','edgeLabelBackground':'#1E1B4B','primaryTextColor':'#FFFFFF'}}}%%
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#64748B','primaryTextColor':'#0F172A'}}}%%
 flowchart LR
-  GA["GitHub Actions<br/>OIDC"] --> ECR[("ECR")] --> ARGO["ArgoCD<br/>sync, prune, self-heal"] --> EKS["EKS Fargate"]
+  GA["GitHub Actions<br/>OIDC"] --> ECR[("Amazon ECR")] --> ARGO["Argo CD<br/>sync, prune, self-heal"] --> EKS["EKS on Fargate"]
   GA --> S3[("Private S3")]
-  EKS -- IRSA --> BR["Bedrock"]
+  EKS -- IRSA --> BR["Amazon Bedrock"]
   CF["CloudFront<br/>HTTPS only"] -- OAC --> S3
   CF --> ALB["ALB"] --> EKS
   CT["CloudTrail"] -.-> GA
-classDef aws fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef k8s fill:#4338CA,stroke:#C7D2FE,color:#FFF,stroke-width:1.5px
-classDef ci fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef iac fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef obs fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef sec fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef neu fill:#0F0D2E,stroke:#4F46E5,color:#FFF,stroke-width:1.5px
-class GA,ARGO ci
-class ECR,S3,CF,ALB,BR aws
-class EKS k8s
-class CT sec
+
+  classDef ci fill:#2088FF,stroke:#1B6FD1,color:#FFFFFF
+  classDef argo fill:#EF7B4D,stroke:#C4623A,color:#FFFFFF
+  classDef aws fill:#ED7100,stroke:#C25C00,color:#FFFFFF
+  classDef store fill:#7AA116,stroke:#5F8011,color:#FFFFFF
+  classDef net fill:#8C4FFF,stroke:#6F3FCC,color:#FFFFFF
+  classDef ai fill:#01A88D,stroke:#018570,color:#FFFFFF
+  classDef mgmt fill:#E7157B,stroke:#B80F62,color:#FFFFFF
+  classDef k8s fill:#326CE5,stroke:#2653B3,color:#FFFFFF
+  class GA ci
+  class ARGO argo
+  class ECR aws
+  class S3 store
+  class CF,ALB net
+  class BR ai
+  class CT mgmt
+  class EKS k8s
 ```
 
+| 100% | ~85% | ~30% |
+|:--:|:--:|:--:|
+| long-lived AWS credentials eliminated | less manual release effort | lower compute spend through sizing and edge caching |
 
-<p align="center"><img src="https://img.shields.io/badge/100%25-LONG--LIVED_AWS_CREDENTIALS_ELIMINATED-0B1020?style=for-the-badge&labelColor=4F46E5" alt="100% LONG-LIVED AWS CREDENTIALS ELIMINATED"/><br/><img src="https://img.shields.io/badge/~85%25-MANUAL_RELEASE_EFFORT_REDUCED-0B1020?style=for-the-badge&labelColor=4F46E5" alt="~85% MANUAL RELEASE EFFORT REDUCED"/><br/><img src="https://img.shields.io/badge/~30%25-COMPUTE_SPEND_REDUCED%2C_SIZING_AND_EDGE_CACHING-0B1020?style=for-the-badge&labelColor=4F46E5" alt="~30% COMPUTE SPEND REDUCED, SIZING AND EDGE CACHING"/></p>
-
-
-- Trust policy restricted to one repository and branch
-- Static build synced to private S3, served through CloudFront with OAC
-- ALB as the API origin, HTTPS-only access
+- Trust policy restricted to one repository and one branch
+- Static build synced to private S3 and served through CloudFront with OAC
+- ALB as the API origin, with HTTPS-only access
 - Least-privilege Bedrock policy for the backend pod via IRSA
 
-
-<p align="center"><img src="https://img.shields.io/badge/Amazon_EKS-3730A3?style=flat-square" alt="Amazon EKS"/> <img src="https://img.shields.io/badge/Fargate-3730A3?style=flat-square" alt="Fargate"/> <img src="https://img.shields.io/badge/ECR-3730A3?style=flat-square" alt="ECR"/> <img src="https://img.shields.io/badge/S3-3730A3?style=flat-square" alt="S3"/> <img src="https://img.shields.io/badge/CloudFront-3730A3?style=flat-square" alt="CloudFront"/> <img src="https://img.shields.io/badge/ALB-3730A3?style=flat-square" alt="ALB"/> <img src="https://img.shields.io/badge/ArgoCD-3730A3?style=flat-square&logo=argo&logoColor=white" alt="ArgoCD"/> <img src="https://img.shields.io/badge/GitHub_Actions_OIDC-3730A3?style=flat-square" alt="GitHub Actions OIDC"/> <img src="https://img.shields.io/badge/IRSA-3730A3?style=flat-square" alt="IRSA"/> <img src="https://img.shields.io/badge/CloudTrail-3730A3?style=flat-square" alt="CloudTrail"/> <img src="https://img.shields.io/badge/Amazon_Bedrock-3730A3?style=flat-square" alt="Amazon Bedrock"/> <img src="https://img.shields.io/badge/Python-3730A3?style=flat-square&logo=python&logoColor=white" alt="Python"/></p>
+![EKS](https://img.shields.io/badge/EKS-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![Fargate](https://img.shields.io/badge/Fargate-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![ECR](https://img.shields.io/badge/ECR-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![S3](https://img.shields.io/badge/S3-7AA116?style=flat-square&logo=amazonaws&logoColor=white) ![CloudFront](https://img.shields.io/badge/CloudFront-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![ALB](https://img.shields.io/badge/ALB-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![CloudTrail](https://img.shields.io/badge/CloudTrail-E7157B?style=flat-square&logo=amazonaws&logoColor=white) ![Bedrock](https://img.shields.io/badge/Bedrock-01A88D?style=flat-square&logo=amazonaws&logoColor=white) ![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_OIDC-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 <br/>
 
+### 3. Microservices Migration from Docker Compose to Kubernetes on Amazon EKS
 
-### 03 · Microservices Migration from Docker Compose to Kubernetes on Amazon EKS
-
-> Three Spring Boot microservices and a React/Vite frontend moved from a single EC2 host to EKS.
-
+Three Spring Boot microservices and a React/Vite frontend moved from a single EC2 host to EKS.
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#818CF8','textColor':'#E2E8F0','edgeLabelBackground':'#1E1B4B','primaryTextColor':'#FFFFFF'}}}%%
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#64748B','primaryTextColor':'#0F172A'}}}%%
 flowchart LR
-  DC["Docker Compose<br/>single EC2 host"] --> SV["Containerized<br/>services"] --> ECR[("ECR")] --> EKS["EKS<br/>manifests, HPA"] --> ALB["ALB Ingress"] --> R53["Route 53<br/>Certbot SSL"] --> PROD(["Production"])
-classDef aws fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef k8s fill:#4338CA,stroke:#C7D2FE,color:#FFF,stroke-width:1.5px
-classDef ci fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef iac fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef obs fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef sec fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef neu fill:#0F0D2E,stroke:#4F46E5,color:#FFF,stroke-width:1.5px
-class DC,SV neu
-class ECR,ALB,R53 aws
-class EKS k8s
-class PROD iac
+  DC["Docker Compose<br/>single EC2 host"] --> SV["Containerized<br/>services"] --> ECR[("Amazon ECR")] --> EKS["EKS<br/>manifests, HPA"] --> ALB["ALB Ingress"] --> R53["Route 53<br/>Certbot SSL"] --> PROD(["Production"])
+
+  classDef docker fill:#2496ED,stroke:#1D7BC4,color:#FFFFFF
+  classDef aws fill:#ED7100,stroke:#C25C00,color:#FFFFFF
+  classDef net fill:#8C4FFF,stroke:#6F3FCC,color:#FFFFFF
+  classDef k8s fill:#326CE5,stroke:#2653B3,color:#FFFFFF
+  classDef done fill:#16A34A,stroke:#128038,color:#FFFFFF
+  class DC,SV docker
+  class ECR aws
+  class ALB,R53 net
+  class EKS k8s
+  class PROD done
 ```
 
-
-<p align="center"><img src="https://img.shields.io/badge/~70%25-ENVIRONMENT_SETUP_EFFORT_REDUCED-0B1020?style=for-the-badge&labelColor=4F46E5" alt="~70% ENVIRONMENT SETUP EFFORT REDUCED"/></p>
-
+| ~70% |
+|:--:|
+| less environment setup effort |
 
 - Namespace, ConfigMap, Deployment, Service, ALB Ingress and HPA manifests
-- Cluster via eksctl; Load Balancer Controller with IRSA
+- Cluster created with eksctl, Load Balancer Controller configured with IRSA
 - NAT Gateway for a stable egress IP
 - Idempotent bootstrap script that seeds organizations and users
 
-
-<p align="center"><img src="https://img.shields.io/badge/Amazon_EKS-3730A3?style=flat-square" alt="Amazon EKS"/> <img src="https://img.shields.io/badge/eksctl-3730A3?style=flat-square" alt="eksctl"/> <img src="https://img.shields.io/badge/ECR-3730A3?style=flat-square" alt="ECR"/> <img src="https://img.shields.io/badge/Kubernetes-3730A3?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/> <img src="https://img.shields.io/badge/ALB_Ingress-3730A3?style=flat-square" alt="ALB Ingress"/> <img src="https://img.shields.io/badge/IRSA-3730A3?style=flat-square" alt="IRSA"/> <img src="https://img.shields.io/badge/HPA-3730A3?style=flat-square" alt="HPA"/> <img src="https://img.shields.io/badge/NAT_Gateway-3730A3?style=flat-square" alt="NAT Gateway"/> <img src="https://img.shields.io/badge/Route_53-3730A3?style=flat-square" alt="Route 53"/> <img src="https://img.shields.io/badge/Certbot-3730A3?style=flat-square" alt="Certbot"/> <img src="https://img.shields.io/badge/Docker-3730A3?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></p>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:4F46E5&height=64&section=header&text=PRODUCTION+HAS+OPINIONS.&fontSize=26&fontColor=FFFFFF&fontAlignY=52" alt="PRODUCTION HAS OPINIONS." width="100%"/>
+![EKS](https://img.shields.io/badge/EKS-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![ECR](https://img.shields.io/badge/ECR-ED7100?style=flat-square&logo=amazonaws&logoColor=white) ![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![ALB](https://img.shields.io/badge/ALB_Ingress-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Certbot](https://img.shields.io/badge/Certbot-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
 
 <br/>
 
-<p><img src="https://img.shields.io/badge/CASE_01-EKS_FARGATE_%2B_GITHUB_ACTIONS-0B0A24?style=for-the-badge&labelColor=4338CA" alt="CASE 01: EKS FARGATE + GITHUB ACTIONS"/></p>
+<a name="problems-solved"></a>
+## Problems Solved in Production
 
-<p>
-<kbd>PODS STUCK IN PENDING</kbd> &nbsp;→&nbsp; Fargate scheduling configuration<br/>
-<kbd>COREDNS FAILURES</kbd> &nbsp;→&nbsp; cluster DNS on Fargate<br/>
-<kbd>IMAGEPULLBACKOFF</kbd> &nbsp;→&nbsp; missing NAT route from the private subnet<br/>
-<kbd>CRASHLOOPBACKOFF</kbd> &nbsp;→&nbsp; RDS security-group rules<br/>
-<kbd>ALB 502</kbd> &nbsp;→&nbsp; traced through target health and logs
-</p>
+Real failures hit while building the projects above, with the cause and the fix. Expand a project to read it.
 
-<p><img src="https://img.shields.io/badge/CASE_02-KEYLESS_GITOPS_ON_EKS_FARGATE-0B0A24?style=for-the-badge&labelColor=4338CA" alt="CASE 02: KEYLESS GITOPS ON EKS FARGATE"/></p>
+<details>
+<summary><b>Project 1 · EKS Fargate with GitHub Actions</b> &nbsp;(5 issues)</summary>
+<br/>
 
-<p>
-<kbd>OIDC ACCESSDENIED</kbd> &nbsp;→&nbsp; IAM trust relationship, found in CloudTrail<br/>
-<kbd>ARGOCD CRD SIZE LIMIT</kbd> &nbsp;→&nbsp; solved with server-side apply<br/>
-<kbd>ADMISSION WEBHOOK FAILURE</kbd> &nbsp;→&nbsp; failing webhook blocking deployments<br/>
-<kbd>EKS ACCESS POLICY ERRORS</kbd> &nbsp;→&nbsp; cluster access granted explicitly<br/>
-<kbd>FARGATE PROFILE IMMUTABILITY</kbd> &nbsp;→&nbsp; profiles cannot be edited in place<br/>
-<kbd>RUNASNONROOT UID ERRORS</kbd> &nbsp;→&nbsp; container user IDs vs. the security policy
-</p>
+| Symptom | Root cause |
+|:--|:--|
+| Pods stuck in `Pending` | Fargate scheduling configuration |
+| CoreDNS failures | Cluster DNS setup on Fargate |
+| `ImagePullBackOff` | Missing NAT route from the private subnet |
+| `CrashLoopBackOff` | RDS security-group rules |
+| ALB `502` | Traced through target health and logs |
 
-<p><img src="https://img.shields.io/badge/CASE_03-DOCKER_COMPOSE_TO_EKS-0B0A24?style=for-the-badge&labelColor=4338CA" alt="CASE 03: DOCKER COMPOSE TO EKS"/></p>
+</details>
 
-<p>
-<kbd>HOSTNAME MISMATCHES</kbd> &nbsp;→&nbsp; configuration defects found during cutover
-</p>
+<details>
+<summary><b>Project 2 · Keyless GitOps on EKS Fargate</b> &nbsp;(6 issues)</summary>
+<br/>
+
+| Symptom | Root cause |
+|:--|:--|
+| OIDC `AccessDenied` | IAM trust relationship, found through CloudTrail |
+| Argo CD CRD size limit | Solved with server-side apply |
+| Admission webhook failure | A failing webhook was blocking deployments |
+| EKS access policy errors | Cluster access had to be granted explicitly |
+| Fargate profile immutability | Profiles cannot be edited in place |
+| `runAsNonRoot` UID errors | Container user IDs conflicting with the security policy |
+
+</details>
+
+<details>
+<summary><b>Project 3 · Docker Compose to EKS</b> &nbsp;(1 issue)</summary>
+<br/>
+
+| Symptom | Root cause |
+|:--|:--|
+| Hostname mismatches | Configuration defects found during cutover |
+
+</details>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:4F46E5&height=64&section=header&text=SECURITY&fontSize=26&fontColor=FFFFFF&fontAlignY=52" alt="SECURITY" width="100%"/>
-
-<br/>
+## Security Model
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#818CF8','textColor':'#E2E8F0','edgeLabelBackground':'#1E1B4B','primaryTextColor':'#FFFFFF'}}}%%
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#64748B','primaryTextColor':'#FFFFFF'}}}%%
 flowchart LR
-  A["OIDC"] --> B["Temporary<br/>credentials"] --> C["IRSA"] --> D["Least<br/>privilege"] --> E["Private<br/>network"] --> F["WAF"] --> G["CloudTrail"]
-classDef aws fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef k8s fill:#4338CA,stroke:#C7D2FE,color:#FFF,stroke-width:1.5px
-classDef ci fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef iac fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef obs fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef sec fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef neu fill:#0F0D2E,stroke:#4F46E5,color:#FFF,stroke-width:1.5px
-class A,B,C,D,E,F,G sec
+  A["OIDC"] --> B["Temporary<br/>credentials"] --> C["IRSA"] --> D["Least<br/>privilege"] --> E["Private<br/>network"] --> F["AWS WAF"] --> G["CloudTrail<br/>audit"]
+  classDef sec fill:#DD344C,stroke:#A9283B,color:#FFFFFF
+  class A,B,C,D,E,F,G sec
 ```
 
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:4F46E5&height=64&section=header&text=OBSERVABILITY&fontSize=26&fontColor=FFFFFF&fontAlignY=52" alt="OBSERVABILITY" width="100%"/>
-
-<br/>
+## Observability Model
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#818CF8','textColor':'#E2E8F0','edgeLabelBackground':'#1E1B4B','primaryTextColor':'#FFFFFF'}}}%%
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'Inter, ui-sans-serif, system-ui, sans-serif','lineColor':'#64748B','primaryTextColor':'#FFFFFF'}}}%%
 flowchart LR
-  M(["METRICS"]) --> P["Prometheus"] --> G["Grafana"]
-  L(["LOGS"]) --> E["ELK / CloudWatch"]
-  A(["AUDIT"]) --> C["CloudTrail"]
-classDef aws fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef k8s fill:#4338CA,stroke:#C7D2FE,color:#FFF,stroke-width:1.5px
-classDef ci fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef iac fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef obs fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef sec fill:#1E1B4B,stroke:#6366F1,color:#FFF,stroke-width:1.5px
-classDef neu fill:#0F0D2E,stroke:#4F46E5,color:#FFF,stroke-width:1.5px
-class M,P,G,L,E,A,C obs
+  M(["Metrics"]) --> P["Prometheus"] --> G["Grafana"]
+  L(["Logs"]) --> E["ELK / CloudWatch"]
+  A(["Audit"]) --> C["CloudTrail"]
+  classDef prom fill:#E6522C,stroke:#B8411F,color:#FFFFFF
+  classDef graf fill:#F46800,stroke:#C25300,color:#FFFFFF
+  classDef elk fill:#005571,stroke:#003F54,color:#FFFFFF
+  classDef cw fill:#E7157B,stroke:#B80F62,color:#FFFFFF
+  classDef lbl fill:#E2E8F0,stroke:#94A3B8,color:#0F172A
+  class M,L,A lbl
+  class P prom
+  class G graf
+  class E elk
+  class C cw
 ```
 
+<br/>
+
+<a name="currently-learning"></a>
+## Currently Learning
+
+Extending my infrastructure background into AI and machine learning, with a focus on building and deploying AI systems.
+
+| Topic | What I'm exploring | Tools |
+|:--|:--|:--|
+| **Generative AI** | LLM fundamentals, prompt design, RAG, managed model access | ![Bedrock](https://img.shields.io/badge/Bedrock-01A88D?style=flat-square&logo=amazonaws&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) |
+| **LangChain** | Chains, prompts, retrievers and tool integrations | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
+| **LangGraph** | Stateful, multi-step AI agent workflows | ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) |
+| **Machine Learning** | Core algorithms, model training and evaluation | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Deep Learning** | Neural networks and modern architectures | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **AI Infrastructure** | Running and deploying AI workloads on AWS and Kubernetes | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+**Also exploring:** Platform Engineering · GitOps · Cloud Security · Cost Optimization · Production Reliability
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:4F46E5&height=64&section=header&text=NOW+EXPLORING&fontSize=26&fontColor=FFFFFF&fontAlignY=52" alt="NOW EXPLORING" width="100%"/>
-
-<br/>
+<a name="github-activity"></a>
+## GitHub Activity
 
 <p align="center">
-<img src="https://img.shields.io/badge/Platform_Engineering-3730A3?style=for-the-badge" alt="Platform Engineering"/>
-<img src="https://img.shields.io/badge/Kubernetes-3730A3?style=for-the-badge" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/GitOps-3730A3?style=for-the-badge" alt="GitOps"/>
-<img src="https://img.shields.io/badge/Cloud_Security-3730A3?style=for-the-badge" alt="Cloud Security"/>
-<img src="https://img.shields.io/badge/AI_%2F_GenAI_Infrastructure-3730A3?style=for-the-badge" alt="AI / GenAI Infrastructure"/>
-<img src="https://img.shields.io/badge/Amazon_Bedrock-3730A3?style=for-the-badge" alt="Amazon Bedrock"/>
-<img src="https://img.shields.io/badge/Infrastructure_Automation-3730A3?style=for-the-badge" alt="Infrastructure Automation"/>
-<img src="https://img.shields.io/badge/Observability-3730A3?style=for-the-badge" alt="Observability"/>
-<img src="https://img.shields.io/badge/Cost_Optimization-3730A3?style=for-the-badge" alt="Cost Optimization"/>
-<img src="https://img.shields.io/badge/Production_Reliability-3730A3?style=for-the-badge" alt="Production Reliability"/>
-</p>
-
-<br/>
-
-<a name="github"></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E1B4B,100:4F46E5&height=64&section=header&text=GITHUB&fontSize=26&fontColor=FFFFFF&fontAlignY=52" alt="GITHUB" width="100%"/>
-
-<br/>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-1920&bg_color=0D1117&color=A5B4FC&line=6366F1&point=FFFFFF&area=true&area_color=6366F1&hide_border=true" alt="Contribution activity" width="100%"/>
+<img src="https://ghchart.rshah.org/14B8A6/Rohit-1920" alt="GitHub contribution chart" width="100%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Rohit-1920&show_icons=true&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E2E8F0&icon_color=818CF8&border_radius=16&rank_icon=github" alt="GitHub stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-1920&layout=compact&hide_border=true&bg_color=0D1117&title_color=818CF8&text_color=E2E8F0&border_radius=16&langs_count=6" alt="Top languages" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rohit-1920&show_icons=true&hide_border=true&bg_color=0B1120&title_color=14B8A6&text_color=E2E8F0&icon_color=F59E0B&border_radius=12" alt="GitHub stats" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-1920&layout=compact&hide_border=true&bg_color=0B1120&title_color=14B8A6&text_color=E2E8F0&border_radius=12&langs_count=6" alt="Top languages" width="49%"/>
 </p>
 
 <br/>
 
 <a name="contact"></a>
-
 <div align="center">
 
-## Let’s talk infrastructure.
+## Let's Connect
 
-<a href="https://linkedin.com/in/rohit-m-934a66222"><img src="https://img.shields.io/badge/LINKEDIN-Rohit%20Mahajan-3730A3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/Rohit-1920"><img src="https://img.shields.io/badge/GITHUB-Rohit--1920-3730A3?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:mahajanrohit759@gmail.com"><img src="https://img.shields.io/badge/EMAIL-mahajanrohit759%40gmail.com-3730A3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/rohit-m-934a66222"><img src="https://img.shields.io/badge/LinkedIn-Rohit_Mahajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/Rohit-1920"><img src="https://img.shields.io/badge/GitHub-Rohit--1920-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:mahajanrohit759@gmail.com"><img src="https://img.shields.io/badge/Email-mahajanrohit759@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0D2E,45:312E81,100:4F46E5&height=120&section=footer" alt="" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,60:0F4C5C,100:14B8A6&height=100&section=footer" alt="" width="100%"/>
 
 </div>
